@@ -10,9 +10,28 @@
 - [x] LC 283 - Move Zeroes | Two Pointers
 - [x] LC 27 - Remove Element | Two Pointers
 - [x] LC 26 - Remove Duplicates from Sorted Array | Two Pointers
+- [x] LC 905 - Sort Array By Parity | Two Pointers
+- [x] LC 941 - Valid Mountain Array | Peak Detection
+- [x] LC 1295 - Find Numbers with Even Number of Digits | Digit Counting
+- [x] LC 1346 - Check If N and Its Double Exist | HashSet / Lookup
 
-------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 
 ## 🔄 Revision Questions
 
 - [ ] LC 88 - Merge Sorted Array ⭐⭐⭐⭐⭐ | Two Pointers (End to Start Merge)
+- [ ] LC 414 - Third Maximum Number ⭐⭐⭐⭐ | Top 3 Maximum Values (One Pass)
+
+--------------------------------------------------------------------------------------------
+
+## 🧠 Patterns Learned
+
+- ✅ Basic Traversal
+- ✅ Prefix Sum
+- ✅ 2D Array Traversal
+- ✅ Index Mapping
+- ✅ Traversal + Counting
+- ✅ Two Pointers
+- ✅ Peak Detection
+- ✅ Digit Counting
+- ✅ HashSet Lookup
